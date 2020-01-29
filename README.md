@@ -1,11 +1,29 @@
 # An-Analysis-of-Household-Form-and-Single-person-Households-in-Seoul
 Numpy, Pandas, Tensorflow를 통한 서울특별시 가구 형태 및 1인 가구 분석
 
-> 소스코드
+
+> ###공공데이터
+ * 기말프로젝트_Tensorflow.ipynb  
+  * 서울시 1인가구(거처종류별) 통계  
+  * 서울시 1인가구(연령별) 통계  
+  * 서울시 1인가구(혼인상태별) 통계  
+  * 서울시 가구원수별 가구수(동별) 통계  
+  * 서울시 가구형태별 가구 및 가구원(동별) 통계  
+ * 기말프로젝트_Tensorflow.ipynb  
+  * 서울특별시총가구
+  * 연도별1인기구통계
+  
+-------------------------------------------------------------------------------------------------------------
+[출처] 서울 열린 데이터 광장
+https://data.seoul.go.kr/dataList/datasetList.do
+[출처] KOSIS 국가통계포털
+http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01
+
+> ###소스코드
  * 5개에 대한 공공데이터 분석 소소코드  
  * Tensorflow 이용한 1인 가구 수 추이 분석 소스코드
 
-> 사용기술
+> ###사용기술
 
  * 기말프로젝트.ipynb  
  
@@ -58,9 +76,15 @@ result_2020 = sess.run(H, feed_dict={X: [6]})
 </code>
 </pre>
 
-> 예시 파일
+> ###예시 파일
 
-![img](./img/CodeUp.png)   
+![예시파일](./예시파일/1.구별1인가구수.PNG)   
+
+![예시파일](./예시파일/2.가구원수별가구수비율.PNG)   
+
+![예시파일](./예시파일/6.1인가구수추이비율그래프.PNG)   
+
+![예시파일](./예시파일/7.1인가구수추이분포도.PNG)   
 
 
 
