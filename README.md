@@ -14,10 +14,10 @@ Numpy, Pandas, Tensorflow를 통한 서울특별시 가구 형태 및 1인 가�
   * 연도별1인기구통계
   
 -------------------------------------------------------------------------------------------------------------
-[출처] 서울 열린 데이터 광장
-https://data.seoul.go.kr/dataList/datasetList.do
-[출처] KOSIS 국가통계포털
-http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01
+[출처] 서울 열린 데이터 광장  
+https://data.seoul.go.kr/dataList/datasetList.do  
+[출처] KOSIS 국가통계포털  
+http://kosis.kr/statisticsList/statisticsListIndex.do?menuId=M_01_01&vwcd=MT_ZTITLE&parmTabId=M_01_01  
 
 > ### 소스코드
  * 5개에 대한 공공데이터 분석 소소코드  
