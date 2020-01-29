@@ -60,6 +60,7 @@ result_2020 = sess.run(H, feed_dict={X: [6]})
 
 > 예시 파일
 
+![img](./img/CodeUp.png)   
 
 
 
